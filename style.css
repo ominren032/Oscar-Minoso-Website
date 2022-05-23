@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Harman-Sans';
+    src: url('/fonts/Harman-Sans.otf') format('opentype')
+}
+
+@font-face {
+    font-family: 'Harman-Simple';
+    src: url('/fonts/Harman-Simple.otf') format('opentype')
+}
