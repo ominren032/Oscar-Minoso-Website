@@ -30,17 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/oscar/Desktop/PERSONAL WEBSITE GITHUB/Oscar-Minoso-Website/fonts",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oscar/Desktop/PERSONAL WEBSITE GITHUB/Oscar-Minoso-Website/fonts&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\oscar\Desktop\PERSONAL WEBSITE GITHUB\Oscar-Minoso-Website\fonts" />
@@ -56,6 +56,10 @@
       <option name="presentableId" value="Default" />
       <updated>1653264984516</updated>
       <workItem from="1653264985769" duration="1943000" />
+      <workItem from="1653282731110" duration="797000" />
+      <workItem from="1653323739504" duration="1595000" />
+      <workItem from="1653332571129" duration="1044000" />
+      <workItem from="1653356268930" duration="6556000" />
     </task>
     <servers />
   </component>
