@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Oscar Miñoso's Portfolio</title>
     <link rel="icon" type="/image/x-icon" href="/images/oscar-logos-blue.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+
     <link rel="stylesheet" href="style.css">
 </head>
 <header>
@@ -15,11 +19,7 @@
             </li>
         </div>
 
-        <div>
-            <li>
-                <a href="#recommended">Recommended Books</a>
-            </li>
-
+        <div class="nav-HREFs">
             <li>
                 <a href="#contact">Contact</a>
             </li>
@@ -97,12 +97,45 @@
     <a href="https://github.com/ominren032/MaltaYC" target="_blank"> <button style="text-align: center">Follow on GitHub</button> </a>
 </div>
 
-<div>
-    <h1 id="contact" style="margin-left:30px;">Contact</h1>
+<br><br>
+
+<div class="contactFormBox">
+    <h1 id="contact" style="margin-left:20px; margin-right:20px; text-align: center; ">Contact</h1>
+
+    <form>
+
+        <div class="fname">
+            <label for="firstName"> First Name: </label>
+            <input type="text" name="firstName" id="firstName" height="20px" placeholder="e.g. John" class="inputsBlk"></input>
+        </div>
+        <br>
+
+        <div>
+            <label for="lastName">Last Name:</label>
+            <input type="text" name="lastName" id="lastName" height="20px" placeholder="e.g. Doe" class="inputsBlk"></input>
+        </div>
+        <br>
+
+        <div>
+            <label for="emailAd">Email:</label>
+            <input type="email" name="emailAd" id="emailAd" placeholder="e.g. someone@example.com" class="inputsBlk"></input>
+        </div>
+        <br>
+
+        <div>
+            <label for="pContent">What can I help you with?</label> <br>
+            <textarea name="pContent" id="pContent" placeholder="Write the contents of an email here..." style="overflow:auto; height:100px; resize: vertical; text-align: start;" class="inputsBlk"></textarea>
+        </div>
+        <br>
+
+        <div class="submitButton">
+            <input type="submit" style="font-family: Harman-Sans; color:white;background-color:rgb(0,100,148);border-color:rgb(0,100,148); width:90px; padding-top: 10px; padding-bottom: 10px; left:20px;border-radius: 10px;"></input>
+        </div>
+        <br>
+    </form>
 </div>
-<div>
-    <h1 id="recommended" style="margin-left:30px;">Recommended Books</h1>
-</div>
+
+
 
 </body>
 </html>
