@@ -175,6 +175,11 @@ input,textarea{
 
 }
 
+input[type="submit"]{
+    -webkit-appearance:none;
+    opacity: 1;
+}
+
 /* Used to set placeholder color for different browsers*/
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: rgba(255,255,255,70%);
